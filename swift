@@ -145,3 +145,12 @@
 /products/get-it-off-my-desk-mug
 /products/midnights-blood-moon-edition-cd
 /products/midnights-jade-green-edition-vinyl
+/products/anti-hero-kungs-remix-extended-version-digital-single
+/products/anti-hero-kungs-remix-digital-single
+/products/anti-hero-instrumental-version-digital-single
+/products/anti-hero-jayda-g-remix-digital-single
+/products/anti-hero-feat-bleachers-digital-single
+/products/anti-hero-illenium-remix-digital-single
+/products/anti-hero-acoustic-version-digital-single
+/products/anti-hero-feat-bleachers-digital-single-clean
+/products/anti-hero-roosevelt-remix-digital-single
