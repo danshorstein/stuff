@@ -155,3 +155,4 @@
 /products/anti-hero-feat-bleachers-digital-single-clean
 /products/anti-hero-roosevelt-remix-digital-single
 /products/self-titled-ball-ornament
+/products/taylor-swift-blanket
