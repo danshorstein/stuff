@@ -157,3 +157,4 @@
 /products/self-titled-ball-ornament
 /products/taylor-swift-blanket
 /products/taylor-swift-keychain
+/products/swiftie-notebook
