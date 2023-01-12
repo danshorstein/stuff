@@ -158,3 +158,4 @@
 /products/taylor-swift-blanket
 /products/taylor-swift-keychain
 /products/swiftie-notebook
+/products/taylor-swift-jeweled-bracelet
