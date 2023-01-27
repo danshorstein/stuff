@@ -159,3 +159,4 @@
 /products/taylor-swift-keychain
 /products/swiftie-notebook
 /products/taylor-swift-jeweled-bracelet/products/lavender-haze-digital-single
+/products/lavender-haze-digital-single
