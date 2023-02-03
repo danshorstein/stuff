@@ -203,7 +203,7 @@
 /products/1-the-in-the-trees-edition-deluxe-vinyl
 /products/the-all-too-well-knit-scarf
 /products/taylor-swift-midnights-vinyl-photo-wood-frame
-products/taylor-swift-midnights-hoodie
+/products/taylor-swift-midnights-hoodie
 /products/2023-taylors-version-18-month-square-calendar
 /products/taylor-swift-midnights-colorblock-crewneck
 /products/album-cover-grey-crewneck
