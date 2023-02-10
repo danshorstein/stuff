@@ -195,6 +195,7 @@
 /products/taylor-swift-midnights-colorblock-crewneck
 /products/swiftie-muscle-tank
 /products/all-too-well-lyric-keychain
+/products/lavender-haze-felix-jaehn-remix-digital-single
 /products/taylor-swift-midnights-album-cover-brown-hoodie
 /products/red-taylors-version-album-ring-by-cathy-waterman
 /products/taylor-swift-midnights-album-cover-ringer-t-shirt
@@ -224,5 +225,3 @@
 /products/album-cover-red-hoodie
 /products/lover-album-cover-crewneck
 /products/all-too-well-gray-t-shirt
-/products/lavender-haze-felix-jaehn-remix-digital-single
-/music-products/products/lavender-haze-felix-jaehn-remix-digital-single
