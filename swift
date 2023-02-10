@@ -225,3 +225,4 @@
 /products/lover-album-cover-crewneck
 /products/all-too-well-gray-t-shirt
 /products/lavender-haze-felix-jaehn-remix-digital-single
+/music-products/products/lavender-haze-felix-jaehn-remix-digital-single
