@@ -225,3 +225,4 @@
 /products/album-cover-red-hoodie
 /products/lover-album-cover-crewneck
 /products/all-too-well-gray-t-shirt
+/products/lover-live-from-paris-heart-shaped-vinyl
