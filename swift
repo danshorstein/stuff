@@ -228,3 +228,17 @@
 /products/lover-live-from-paris-heart-shaped-vinyl
 /products/pink-glitter-rose-hoodie
 /products/taylor-swift-jeweled-bracelet
+/products/taylor-swift-the-eras-tour-slip-mat-set
+/products/taylor-swift-the-eras-tour-poster
+/products/taylor-swift-the-eras-tour-washed-blue-hoodie
+/products/taylor-swift-the-eras-tour-cropped-beige-pullover
+/products/taylor-swift-the-eras-tour-beige-t-shirt
+/products/taylor-swift-the-eras-tour-black-long-sleeve-t-shirt
+/products/taylor-swift-the-eras-tour-black-t-shirt
+/products/taylor-swift-the-eras-tour-black-hoodie
+/products/taylor-swift-the-eras-tour-beige-hoodie
+/products/taylor-swift-the-eras-tour-cropped-lavender-pullover
+/products/taylor-swift-the-eras-tour-taupe-hoodie
+/products/taylor-swift-the-eras-tour-heather-gray-crewneck
+/products/taylor-swift-the-eras-tour-mineral-wash-gray-t-shirt
+/products/taylor-swift-the-eras-tour-white-t-shirt
