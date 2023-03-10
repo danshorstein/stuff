@@ -278,3 +278,5 @@
 /products/love-story-ornament
 /products/fearless-taylors-version-ball-ornament
 /products/junior-jewels-t-shirt-ornament
+/products/speak-now-hat
+/products/speak-now-necklace
