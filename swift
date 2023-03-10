@@ -273,3 +273,8 @@
 /products/taylor-swift-the-eras-tour-taylor-swift-evermore-album-t-shirt
 /products/taylor-swift-the-eras-tour-earbud-case
 /products/taylor-swift-the-eras-tour-reputation-album-t-shirt
+/products/taylor-swift-muscle-tank
+/products/gold-tie-dye-taylors-version-t-shirt-dress
+/products/love-story-ornament
+/products/fearless-taylors-version-ball-ornament
+/products/junior-jewels-t-shirt-ornament
