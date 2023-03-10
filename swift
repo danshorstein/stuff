@@ -280,3 +280,4 @@
 /products/junior-jewels-t-shirt-ornament
 /products/speak-now-hat
 /products/speak-now-necklace
+/products/swiftie-tumbler
