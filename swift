@@ -284,3 +284,4 @@
 /products/taylor-swift-the-eras-tour-glendale-az-poster
 /products/taylor-swift-the-eras-tour-las-vegas-nv-poster
 /products/lavender-haze-acoustic-version-digital-single-clean
+/products/lavender-haze-acoustic-version-digital-single
