@@ -287,3 +287,4 @@
 /products/lavender-haze-acoustic-version-digital-single
 /products/all-too-well-typewriter-ornament
 /products/taylor-swift-the-eras-tour-arlington-tx-poster
+/products/taylor-swift-the-eras-tour-tampa-fl-poster
