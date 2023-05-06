@@ -294,3 +294,4 @@
 /products/speak-now-taylors-version-digital-album
 /products/speak-now-taylors-version-cassette
 /products/speak-now-taylors-version-3lp-vinyl
+/products/taylor-swift-the-eras-tour-nashville-tn-poster
