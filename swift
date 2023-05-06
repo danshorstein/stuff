@@ -293,4 +293,4 @@
 /products/speak-now-taylors-version-cd
 /products/speak-now-taylors-version-digital-album
 /products/speak-now-taylors-version-cassette
-/products/speak-now-taylors-version-3lp-
+/products/speak-now-taylors-version-3lp-vinyl
