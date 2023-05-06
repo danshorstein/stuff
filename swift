@@ -290,3 +290,7 @@
 /products/taylor-swift-the-eras-tour-tampa-fl-poster
 /products/taylor-swift-the-eras-tour-houston-tx-poster
 /products/taylor-swift-the-eras-tour-atlanta-ga-poster
+/products/speak-now-taylors-version-cd
+/products/speak-now-taylors-version-digital-album
+/products/speak-now-taylors-version-cassette
+/products/speak-now-taylors-version-3lp-
