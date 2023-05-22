@@ -296,3 +296,4 @@
 /products/speak-now-taylors-version-3lp-vinyl
 /products/taylor-swift-the-eras-tour-nashville-tn-poster
 /products/taylor-swift-the-eras-tour-philadelphia-pa-poster
+/products/4-the-bettys-garden-edition-deluxe-vinyl
