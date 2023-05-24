@@ -299,3 +299,5 @@
 /products/4-the-bettys-garden-edition-deluxe-vinyl
 /products/midnights-lavender-edition-vinyl
 /products/midnights-love-potion-purple-marbled-edition-vinyl
+/products/midnights-the-til-dawn-edition-digital-album-non-explicit
+/products/midnights-the-til-dawn-edition-digital-album
