@@ -318,3 +318,4 @@
 /products/meredith-swift-and-olivia-swift-sticker-sheet
 /products/meredith-swift-and-olivia-swift-duvet-cover
 /products/olivia-swift-cat-pillow
+/products/midnights-the-late-night-edition-digital-album
