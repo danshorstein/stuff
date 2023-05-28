@@ -321,3 +321,5 @@
 /products/midnights-the-late-night-edition-digital-album
 /products/karma-feat-ice-spice-digital-single
 /products/karma-is-a-cat-hoodie
+/products/karmas-a-relaxing-thought-tie-dye-t-
+/products/karma-is-a-cat-cropped-t-shirt
