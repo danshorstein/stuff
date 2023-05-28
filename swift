@@ -323,3 +323,4 @@
 /products/karma-is-a-cat-hoodie
 /products/karmas-a-relaxing-thought-tie-dye-t-
 /products/karma-is-a-cat-cropped-t-shirt
+/products/karmas-a-relaxing-thought-tie-dye-t-shirt
