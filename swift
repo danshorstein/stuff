@@ -320,3 +320,4 @@
 /products/olivia-swift-cat-pillow
 /products/midnights-the-late-night-edition-digital-album
 /products/karma-feat-ice-spice-digital-single
+/products/karma-is-a-cat-hoodie
