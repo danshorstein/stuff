@@ -334,3 +334,4 @@
 /products/taylor-swift-the-eras-tour-photo-white-crewneck
 /products/taylor-swift-the-eras-tour-heart-photo-hoodie
 /products/taylor-swift-the-eras-tour-i-just-want-to-stay-crewneck
+/products/taylor-swift-the-eras-tour-black-tote-keychain
