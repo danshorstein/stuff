@@ -325,3 +325,12 @@
 /products/karma-is-a-cat-cropped-t-shirt
 /products/karmas-a-relaxing-thought-tie-dye-t-shirt
 /products/speak-now-taylors-version-3lp-orchid-marbled-vinyl
+/products/set-of-4-taylor-swift-the-eras-tour-photo-pins
+/products/set-of-4-taylor-swift-the-eras-tour-photo-stickers
+/products/set-of-3-taylor-swift-the-eras-tour-photo-postcards
+/products/taylor-swift-the-eras-tour-photo-black-t-shirt
+/products/taylor-swift-the-eras-tour-live-photo-stars-t-shirt
+/products/taylor-swift-the-eras-tour-photo-oversized-t-shirt
+/products/taylor-swift-the-eras-tour-photo-white-crewneck
+/products/taylor-swift-the-eras-tour-heart-photo-hoodie
+/products/taylor-swift-the-eras-tour-i-just-want-to-stay-crewneck
