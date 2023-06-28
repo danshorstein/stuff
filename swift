@@ -335,3 +335,11 @@
 /products/taylor-swift-the-eras-tour-heart-photo-hoodie
 /products/taylor-swift-the-eras-tour-i-just-want-to-stay-crewneck
 /products/taylor-swift-the-eras-tour-black-tote-keychain
+/products/speak-now-taylors-version-eras-patch-set
+/products/speak-now-taylors-version-eras-lithograph
+/products/speak-now-taylors-version-eras-tote-bag
+/products/speak-now-taylors-version-eras-blanket
+/products/speak-now-taylors-version-eras-magnet-set
+/products/speak-now-taylors-version-eras-tie-dye-long-sleeve-t-shirt
+/products/speak-now-taylors-version-eras-white-crewneck
+/products/speak-now-taylors-version-eras-beige-hoodie
