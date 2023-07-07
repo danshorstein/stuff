@@ -395,3 +395,4 @@
 /products/the-story-of-us-purple-crop-hoodie
 /products/speak-now-taylors-version-tracklist-white-crewneck
 /products/fighting-dragons-with-you-white-hoodie
+/products/speak-now-taylors-version-cardigan
