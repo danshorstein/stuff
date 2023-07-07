@@ -392,3 +392,6 @@
 /products/speak-now-taylors-version-tracklist-oversized-taupe-t-shirt
 /products/speak-now-taylors-version-black-t-shirt
 /products/speak-now-taylors-version-heather-gray-fleece
+/products/the-story-of-us-purple-crop-hoodie
+/products/speak-now-taylors-version-tracklist-white-crewneck
+/products/fighting-dragons-with-you-white-hoodie
