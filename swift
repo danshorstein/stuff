@@ -397,3 +397,4 @@
 /products/fighting-dragons-with-you-white-hoodie
 /products/speak-now-taylors-version-cardigan
 /products/speak-now-taylors-version-deluxe-digital-album
+/products/2-the-in-the-weeds-edition-deluxe-vinyl
