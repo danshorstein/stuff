@@ -398,3 +398,11 @@
 /products/speak-now-taylors-version-cardigan
 /products/speak-now-taylors-version-deluxe-digital-album
 /products/2-the-in-the-weeds-edition-deluxe-vinyl
+/products/1989-taylors-version-rose-garden-pink-edition-deluxe-cd
+/products/1989-taylors-version-cassette
+/products/1989-taylors-version-aquamarine-green-edition-deluxe-cd
+/products/1989-taylors-version-vinyl
+/products/1989-taylors-version-digital-album
+/products/1989-taylors-version-cd
+/products/1989-taylors-version-sunrise-boulevard-yellow-edition-deluxe-cd
+/products/1989-taylors-version-crystal-skies-blue-edition-deluxe-cd
