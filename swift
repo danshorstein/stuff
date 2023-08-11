@@ -406,3 +406,5 @@
 /products/1989-taylors-version-cd
 /products/1989-taylors-version-sunrise-boulevard-yellow-edition-deluxe-cd
 /products/1989-taylors-version-crystal-skies-blue-edition-deluxe-cd
+/products/speak-now-taylors-version-purple-water-bottle-new
+/products/we-wont-be-sleeping-water-bottle-new
