@@ -409,3 +409,4 @@
 /products/speak-now-taylors-version-purple-water-bottle-new
 /products/we-wont-be-sleeping-water-bottle-new
 /products/taylor-swift-the-eras-international-tour-beige-t-shirt
+/products/1989-taylors-version-sunrise-boulevard-yellow-edition-vinyl
