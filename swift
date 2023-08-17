@@ -410,3 +410,4 @@
 /products/we-wont-be-sleeping-water-bottle-new
 /products/taylor-swift-the-eras-international-tour-beige-t-shirt
 /products/1989-taylors-version-sunrise-boulevard-yellow-edition-vinyl
+/products/taylor-swift-the-eras-international-tour-mineral-wash-gray-t-shirt
