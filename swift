@@ -413,3 +413,4 @@
 /products/taylor-swift-the-eras-international-tour-mineral-wash-gray-t-shirt
 /products/taylor-swift-the-eras-international-tour-washed-blue-hoodie
 /products/1989-taylors-version-aquamarine-green-edition-vinyl
+/products/taylor-swift-the-eras-tour-us-dates-black-t-shirt
