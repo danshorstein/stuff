@@ -415,3 +415,4 @@
 /products/1989-taylors-version-aquamarine-green-edition-vinyl
 /products/taylor-swift-the-eras-tour-us-dates-black-t-shirt
 /products/1989-taylors-version-rose-garden-pink-edition-vinyl
+/products/taylor-swift-the-eras-international-tour-black-t-shirt
