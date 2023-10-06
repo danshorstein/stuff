@@ -417,3 +417,11 @@
 /products/1989-taylors-version-rose-garden-pink-edition-vinyl
 /products/taylor-swift-the-eras-international-tour-black-t-shirt
 /products/1989-taylors-version-film-strip-vinyl-display-shelves
+/products/1989-taylors-version-charcoal-photo-t-shirt
+/products/1989-taylors-version-beige-crewneck
+/products/1989-taylors-version-blue-tie-dye-hoodie
+/products/1989-taylors-version-off-white-photo-t-shirt
+/products/1989-taylors-version-photo-coasters
+/products/1989-taylors-version-photo-ringer-t-shirt
+/products/1989-taylors-version-pink-crewneck
+/products/1989-taylors-version-pink-jogger-sweatpants
