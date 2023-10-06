@@ -434,3 +434,4 @@
 /products/1989-taylors-version-viewfinder
 /products/1989-taylors-version-corduroy-tote-bag
 /products/1989-taylors-version-keychain
+/products/1989-taylors-version-cream-sunglasses-and-case
