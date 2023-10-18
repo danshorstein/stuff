@@ -436,3 +436,4 @@
 /products/1989-taylors-version-keychain
 /products/1989-taylors-version-cream-sunglasses-and-case
 /products/1989-taylors-version-film-strip-cd-display-shelves
+/products/1989-taylors-version-cropped-navy-long-sleeve
