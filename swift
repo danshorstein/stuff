@@ -437,3 +437,11 @@
 /products/1989-taylors-version-cream-sunglasses-and-case
 /products/1989-taylors-version-film-strip-cd-display-shelves
 /products/1989-taylors-version-cropped-navy-long-sleeve
+/products/1989-taylors-version-eras-wallet-inserts
+/products/1989-taylors-version-eras-puffy-stickers
+/products/1989-taylors-version-eras-desk-notepad
+/products/1989-taylors-version-eras-water-bottle-holder
+/products/1989-taylors-version-eras-t-shirt
+/products/1989-taylors-version-eras-long-sleeve-t-shirt
+/products/1989-taylors-version-eras-crewneck
+/products/1989-taylors-version-eras-hoodie
