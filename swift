@@ -464,3 +464,4 @@
 /products/i-think-i-am-finally-clean-umbrella
 /products/we-found-wonderland-green-tote-bag
 /products/1989-taylors-version-digital-deluxe-album
+/products/1989-taylors-version-cardigan
