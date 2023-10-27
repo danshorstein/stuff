@@ -463,3 +463,4 @@
 /products/from-the-vault-1989-taylors-version-white-t-shirt
 /products/i-think-i-am-finally-clean-umbrella
 /products/we-found-wonderland-green-tote-bag
+/products/1989-taylors-version-digital-deluxe-album
