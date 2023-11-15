@@ -542,3 +542,4 @@
 /products/cause-i-dont-know-how-it-gets-better-than-this-black-t-shirt
 /products/on-a-wishing-star-crewneck
 /products/speak-now-taylors-version-frame-snowglobe
+/products/red-taylors-version-state-of-grace-hoodie
