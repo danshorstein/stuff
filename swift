@@ -543,3 +543,4 @@
 /products/on-a-wishing-star-crewneck
 /products/speak-now-taylors-version-frame-snowglobe
 /products/red-taylors-version-state-of-grace-hoodie
+/products/lover-house-snowglobe
