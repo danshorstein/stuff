@@ -544,3 +544,17 @@
 /products/speak-now-taylors-version-frame-snowglobe
 /products/red-taylors-version-state-of-grace-hoodie
 /products/lover-house-snowglobe
+/products/taylor-swift-midnights-moonstone-blue-vinyl-ornament
+/products/taylor-swift-midnights-everybody-agrees-teacup-ornament
+/products/slut-taylors-version-from-the-vault
+/products/midnights-the-late-night-edition-cd
+/products/taylor-swift-midnights-ghost-ornament-i
+/products/cruel-summer-live-from-ts-the-eras-tour
+/products/cruel-summer-lp-giobbi-remix
+/products/taylor-swift-midnights-ghost-ornament-ii
+/products/taylor-swift-midnights-mahogany-vinyl-ornament
+/products/taylor-swift-midnights-blood-moon-vinyl-ornament
+/products/cruel-summer-lp-giobbi-remix-extended-version-single
+/products/taylor-swift-midnights-era-ball-ornament
+/products/taylor-swift-midnights-ghost-ornament-iii
+/products/taylor-swift-midnights-jade-green-vinyl-ornament
