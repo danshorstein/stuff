@@ -395,7 +395,6 @@
 /products/the-story-of-us-purple-crop-hoodie
 /products/speak-now-taylors-version-tracklist-white-crewneck
 /products/fighting-dragons-with-you-white-hoodie
-/products/speak-now-taylors-version-cardigan
 /products/speak-now-taylors-version-deluxe-digital-album
 /products/2-the-in-the-weeds-edition-deluxe-vinyl
 /products/1989-taylors-version-rose-garden-pink-edition-deluxe-cd
@@ -464,7 +463,6 @@
 /products/i-think-i-am-finally-clean-umbrella
 /products/we-found-wonderland-green-tote-bag
 /products/1989-taylors-version-digital-deluxe-album
-/products/1989-taylors-version-cardigan
 /products/1989-taylors-version-digital-deluxe-album-slut-acoustic-version-taylors-version
 /products/shouldve-known-id-be-the-first-to-leave-keyholder
 /products/taylor-swift-midnights-green-tie-dye-long-sleeve
