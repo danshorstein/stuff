@@ -556,3 +556,11 @@
 /products/taylor-swift-midnights-era-ball-ornament
 /products/taylor-swift-midnights-ghost-ornament-iii
 /products/taylor-swift-midnights-jade-green-vinyl-ornament
+/products/taylor-swift-eras-car-decals/products/taylor-swift-eras-temporary-tattoos
+/products/album-cover-phone-case
+/products/speak-now-taylors-version-eras-tie-dye-t-shirt
+/products/the-in-the-trees-cropped-long-sleeve
+/products/taylor-swift-midnights-green-tie-dye-hoodie
+/products/album-cover-phone-case
+/products/speak-now-taylors-version-eras-tie-dye-t-shirt
+/products/the-in-the-trees-cropped-long-sleeve
