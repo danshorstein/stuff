@@ -565,3 +565,8 @@
 /products/speak-now-taylors-version-eras-tie-dye-t-shirt
 /products/the-in-the-trees-cropped-long-sleeve
 /products/taylor-swift-eras-car-decals
+/products/the-tortured-poets-department-cd-bonus-track-the-manuscript
+/products/the-tortured-poets-department-vinyl-bonus-track-the-manuscript
+/products/the-tortured-poets-department-cassette-bonus-track-the-manuscript
+/products/the-tortured-poets-department-collectors-edition-deluxe-cd-bonus-track-the-manuscript
+/products/the-tortured-poets-department-standard-digital-album
