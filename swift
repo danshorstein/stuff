@@ -225,7 +225,6 @@
 /products/album-cover-red-hoodie
 /products/lover-album-cover-crewneck
 /products/all-too-well-gray-t-shirt
-/products/lover-live-from-paris-heart-shaped-vinyl
 /products/pink-glitter-rose-hoodie
 /products/taylor-swift-jeweled-bracelet
 /products/taylor-swift-the-eras-tour-slip-mat-set
